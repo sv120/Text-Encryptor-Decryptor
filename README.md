@@ -1,4 +1,4 @@
-![App Screenshot](Image .png)
+![App Screenshot](Image.png)
 
 Text Encryptor and Decryptor - README
 ====================================
