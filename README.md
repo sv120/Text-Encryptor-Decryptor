@@ -1,7 +1,6 @@
 ![App Screenshot](Image.png)
 
 Text Encryptor and Decryptor - README
-====================================
 
 Overview
 --------
@@ -14,9 +13,16 @@ Features
 - Option to clear input and output fields.
 - Support for copying text to clipboard and pasting from clipboard.
 
+Important Notes
+---------------
+- This app is designed such that if you encrypt text on one device, you can decrypt it on another device as long as you have the **same secret key**.
+- **Do not edit the decrypted text** as any changes made will make it impossible to decrypt it correctly.
+- Remember your **secret key** as it is the **password** required to decrypt your text. If you lose it, you will not be able to retrieve the original text.
+- The text encrypted in this app will only be decrypted using this app. **No other app, software, or online tool** can decrypt the text encrypted with this tool.
+
 Requirements
 ------------
-No installation required. This version comes as a ready-to-use **.exe** file for Windows.
+No installation is required. This version comes as a ready-to-use **.exe** file for Windows.
 
 How to Use
 -----------
