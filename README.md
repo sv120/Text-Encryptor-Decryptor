@@ -19,16 +19,13 @@ Important Notes
 - **Do not edit the decrypted text** as any changes made will make it impossible to decrypt it correctly.
 - Remember your **secret key** as it is the **password** required to decrypt your text. If you lose it, you will not be able to retrieve the original text.
 - The text encrypted in this app will only be decrypted using this app. **No other app, software, or online tool** can decrypt the text encrypted with this tool.
-
-Requirements
-------------
-No installation is required. This version comes as a ready-to-use **.exe** file for Windows.
+- It may be slow while closing because it clears memory to remove traces of your sensitive data from pc.
 
 How to Use
 -----------
-1. **Run the application**: Double-click the **Text Encryptor Decryptor.exe** file to launch the program.
+1. **Install the application**: Double-click the **Text_Encrypt_Decrypt_(v1.0).exe** file to install the program.
    
-2. **Enter the secret key**: Type your secret key in the provided input box.
+2. **Launch it and enter the secret key**: Type your secret key in the provided input box.
 
 3. **Input text**: Type or paste the text you want to encrypt or decrypt.
 
